@@ -1,0 +1,1 @@
+All components in this folder will be registered globally.
